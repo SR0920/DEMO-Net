@@ -1,2 +1,2 @@
-# CM-Net
+# DEMO-Net
 This code repository is currently being prepared.
